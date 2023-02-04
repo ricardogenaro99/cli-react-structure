@@ -1,0 +1,23 @@
+{
+  "name": "cli-react-structure",
+  "version": "1.0.0",
+  "description": "cli to create a react project based on create-react-app and the basic structure of the project",
+  "main": "index.js",
+  "bin": {
+    "react-structure": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ricardo Genaro <genaro.choquehuanca.palli@gmail.com> (https://ricardo-genaro-portfolio.vercel.app/)",
+  "homepage": "https://github.com/ricardogenaro99/cli-react-structure#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardogenaro99/cli-react-structure"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "shelljs": "^0.8.5"
+  }
+}
