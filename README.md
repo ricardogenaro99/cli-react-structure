@@ -2,6 +2,12 @@
 
 Create an application based on create-react-app with the option to choose between JS or TS, and thus be able to provide a basic folder and file structure to speed up the development of your project
 
+## Install
+
+```npm
+npm install cli-react-structure -g
+```
+
 ## Quick Overview
 
 ```sh
