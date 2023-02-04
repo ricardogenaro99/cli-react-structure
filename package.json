@@ -1,6 +1,6 @@
 {
   "name": "cli-react-structure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli to create a react project based on create-react-app and the basic structure of the project",
   "main": "index.js",
   "bin": {
